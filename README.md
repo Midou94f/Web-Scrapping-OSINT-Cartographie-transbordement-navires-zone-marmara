@@ -1,4 +1,4 @@
-# WEB SCRAPPING OSINT-Maritime-Marmara
+# WEB SCRAPPING - OSINT-Maritime-Marmara
 
 **Detection de transbordements suspects en Mer de Marmara — Pipeline OSINT et analyse relationnelle**
 
